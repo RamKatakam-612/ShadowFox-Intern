@@ -1,0 +1,7 @@
+AQI_LowerBound ,AQI_HigherBound,Category,Health Conditions
+0,50,Good,Air quality is satisfactory and poses no risk.
+51,100,Satisfactory,Acceptable air quality; minor breathing discomfort for sensitive people.
+101,200,Moderate,"May cause breathing discomfort to people with lung issues (e.g., asthma)."
+201,300,Poor,"May cause breathing discomfort for everyone, especially children & elderly."
+301,400,Very Poor,May cause respiratory illness in prolonged exposure.
+401,500,Severe,Serious health effects; affects even healthy people.
